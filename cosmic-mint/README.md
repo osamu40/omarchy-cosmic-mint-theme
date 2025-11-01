@@ -1,0 +1,21 @@
+# Omarchy Cosmic-mint Theme
+
+This is the Cosmic Theme for [Omarchy.org](https://omarchy.org), providing a cohesive and visually appealing configuration set for your Linux desktop environment.
+
+<p align="center">
+  <img src="Cosmic1.jpg" alt="Cosmic-mint Theme Preview">
+</p>
+
+
+Inspired by: https://youtu.be/YUaSVFXTHlk?si=nPbii6A0GdAuVQso
+
+
+## Installation
+
+To install this theme, simply use the `omarchy-theme-install` command:
+
+```bash
+omarchy-theme-install https://github.com/osamu40/omarchy-cosmic-mint-theme.git
+```
+
+
