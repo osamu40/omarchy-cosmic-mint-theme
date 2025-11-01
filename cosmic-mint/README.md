@@ -7,15 +7,13 @@ This is the Cosmic Theme for [Omarchy.org](https://omarchy.org), providing a coh
 </p>
 
 
-Inspired by: https://youtu.be/YUaSVFXTHlk?si=nPbii6A0GdAuVQso
+Inspired by: https://youtu.be/YUaSVFXTHlk?si=Z6nX-GedujeDKzOQ
 
 
 ## Installation
 
-To install this theme, simply use the `omarchy-theme-install` command:
+Copy the Cosmic-mint directory to ~/.config/omarchy/themes/
 
-```bash
-omarchy-theme-install https://github.com/osamu40/omarchy-cosmic-mint-theme.git
-```
+https://github.com/osamu40/omarchy-cosmic-mint-theme.git
 
 
