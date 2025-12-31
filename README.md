@@ -14,5 +14,5 @@ Inspired by: https://youtu.be/YUaSVFXTHlk?si=Z6nX-GedujeDKzOQ
 
 Copy the Cosmic-mint directory to ~/.config/omarchy/themes/
 
-https://github.com/osamu40/omarchy-cosmic-mint-theme/tree/main/cosmic-mint
+https://github.com/osamu40/omarchy-cosmic-mint-theme/
 
