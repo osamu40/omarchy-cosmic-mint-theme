@@ -1,6 +1,6 @@
 # Omarchy Cosmic-mint Theme
 
-This is the Cosmic Theme for [Omarchy.org](https://omarchy.org), providing a cohesive and visually appealing configuration set for your Linux desktop environment.
+This is the Cosmic Theme for [Omarchy.org](https://omarchy.org). 
 
 <p align="center">
   <img src="Cosmic1.jpg" alt="Cosmic-mint Theme Preview">
